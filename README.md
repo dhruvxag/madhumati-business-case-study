@@ -55,3 +55,33 @@ The following KPIs were used to evaluate business performance:
 * Seasonal Demand Trends
 * Sales Trend Analysis
 
+Sales Trend Analysis
+
+The analysis indicates that Gold jewelry generated the most stable revenue throughout the year due to consistent customer demand during festivals and wedding seasons. Diamond jewelry showed higher sales during premium purchasing periods such as engagements, celebrations, and festive occasions, while Platinum jewelry represented a niche luxury segment with moderate sales but higher-value transactions.
+Monthly trend analysis revealed noticeable revenue spikes during festive periods such as Diwali and wedding seasons, demonstrating the strong influence of seasonal demand on jewelry sales.
+
+Category-Wise Performance Analysis
+
+* Gold Jewelry
+Gold jewelry contributed the highest overall sales volume and maintained steady performance across most months. The category showed significant growth during festive and wedding seasons due to traditional purchasing behavior.
+
+* Diamond Jewelry
+Diamond products generated strong premium revenue and higher average order values. Sales increased during celebration-focused periods, indicating customer preference for luxury purchases during special occasions.
+
+* Platinum Jewelry
+Platinum jewelry catered to a smaller but premium customer segment. Although sales volume remained comparatively lower, the category demonstrated higher profitability per transaction.
+
+Business Insights
+
+The analysis generated several important business insights:
+
+* Gold remains the primary revenue-driving category for the business.
+* Diamond jewelry performs strongly during premium gifting and engagement seasons.
+* Platinum products attract niche luxury buyers and contribute higher-value transactions.
+* Seasonal events and festivals significantly impact overall jewelry sales.
+* Customer purchasing behavior changes across different product categories and time periods.
+
+Conclusion
+
+This Sales Performance & Market Trend Analysis provides a comprehensive overview of the yearly business performance of Madhumati Jewelers. Through data analysis and dashboard visualization, the report successfully identifies category-wise trends, revenue patterns, and customer purchasing behavior.
+The findings of this project can support future business decisions related to inventory management, seasonal marketing campaigns, customer targeting strategies, and overall sales optimization. The project also demonstrates the practical application of business analytics using Excel and visual presentation design using Figma.
