@@ -1,4 +1,6 @@
-# Madhumati-Business-Case-Study
+Sales Performance & Market Trend Analysis
+
+MADHUMATI JEWELERS
 
 INTRODUCTION
 
