@@ -1,4 +1,4 @@
-Sales Performance & Market Trend Analysis
+SALES PERFORMANCE & MARKET TREND ANALYSIS
 
 MADHUMATI JEWELERS
 
@@ -10,11 +10,10 @@ The study focuses on sales growth, customer purchasing behavior, monthly revenue
 BUSINESS OBJECTIVE
 
 The primary objective of this project is to analyze and compare the sales performance of Gold, Diamond, and Platinum jewelry categories throughout the year. The report is designed to identify which category generates the highest revenue, which products perform better during specific seasons or festivals, and how customer demand changes over time.
-
 This analysis also helps in understanding:
 
-Revenue contribution of each jewelry category
-Monthly and quarterly sales growth trends
-Seasonal demand during wedding and festive periods
-Customer purchasing preferences
-Overall business profitability and performance
+* Revenue contribution of each jewelry category
+*Monthly and quarterly sales growth trends
+*Seasonal demand during wedding and festive periods
+*Customer purchasing preferences
+*Overall business profitability and performance
