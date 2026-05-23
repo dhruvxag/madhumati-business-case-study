@@ -17,3 +17,23 @@ This analysis also helps in understanding:
 * Seasonal demand during wedding and festive periods
 * Customer purchasing preferences
 * Overall business profitability and performance
+
+Dataset Overview
+
+The dataset used in this project contains transactional sales records of Madhumati Jewelers for a one-year duration. The data is categorized into three product segments:
+
+* Gold Jewelry
+* Diamond Jewelry
+* Platinum Jewelry
+
+The dataset includes the following business metrics:
+
+* Monthly Sales Revenue
+* Units Sold
+* Profit Margin
+* Customer Count
+* Average Order Value
+* Category-wise Performance
+* Quarterly Revenue Trends
+
+The data was organized and analyzed using Microsoft Excel to generate insights and visual dashboards.
