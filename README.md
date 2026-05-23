@@ -35,7 +35,7 @@ The dataset includes the following business metrics:
 * Average Order Value
 * Category-wise Performance
 * Quarterly Revenue Trends
-* 
+  
 The data was organized and analyzed using Microsoft Excel to generate insights and visual dashboards.
 
 TOOLS & TECHNOLOGIES USED
