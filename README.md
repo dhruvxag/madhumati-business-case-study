@@ -1,5 +1,5 @@
-SALES PERFORMANCE & MARKET TREND ANALYSIS
-
+SALES PERFORMANCE & MARKET TREND ANALYSIS (2024-25)
+ 
 MADHUMATI JEWELERS
 
 INTRODUCTION
@@ -18,7 +18,7 @@ This analysis also helps in understanding:
 * Customer purchasing preferences
 * Overall business profitability and performance
 
-Dataset Overview
+DATASET OVERVIEW
 
 The dataset used in this project contains transactional sales records of Madhumati Jewelers for a one-year duration. The data is categorized into three product segments:
 
@@ -35,5 +35,31 @@ The dataset includes the following business metrics:
 * Average Order Value
 * Category-wise Performance
 * Quarterly Revenue Trends
-
+* 
 The data was organized and analyzed using Microsoft Excel to generate insights and visual dashboards.
+
+TOOLS & TECHNOLOGIES USED
+
+* Microsoft Excel for Data Cleaning, Analysis, Pivot Tables, Dashboard Creation
+* Figma for UI Design, Dashboard Presentation, Visual Layout
+* Charts & Graphs for Trend Visualization and Comparative Analysis
+
+KEY PERFORMANCE INDICATORS
+
+The following KPIs were used to evaluate business performance:
+
+* Total Annual Revenue
+* Total Units Sold
+* Highest Revenue Generating Category
+* Monthly Sales Growth Rate
+* Average Customer Purchase Value
+* Quarterly Performance Comparison
+* Seasonal Demand Trends
+* Sales Trend Analysis
+
+The analysis indicates that Gold jewelry generated the most stable revenue throughout the year due to consistent customer demand during festivals and wedding seasons. Diamond jewelry showed higher sales during premium purchasing periods such as engagements, celebrations, and festive occasions, while Platinum jewelry represented a niche luxury segment with moderate sales but higher-value transactions.
+onclusion
+
+This Sales Performance & Market Trend Analysis provides a comprehensive overview of the yearly business performance of Madhumati Jewelers. Through data analysis and dashboard visualization, the report successfully identifies category-wise trends, revenue patterns, and customer purchasing behavior.
+
+The findings of this project can support future business decisions related to inventory management, seasonal marketing campaigns, customer targeting strategies, and overall sales optimization. The project also demonstrates the practical application of business analytics using Excel and visual presentation design using Figma.
