@@ -57,9 +57,3 @@ The following KPIs were used to evaluate business performance:
 * Seasonal Demand Trends
 * Sales Trend Analysis
 
-The analysis indicates that Gold jewelry generated the most stable revenue throughout the year due to consistent customer demand during festivals and wedding seasons. Diamond jewelry showed higher sales during premium purchasing periods such as engagements, celebrations, and festive occasions, while Platinum jewelry represented a niche luxury segment with moderate sales but higher-value transactions.
-onclusion
-
-This Sales Performance & Market Trend Analysis provides a comprehensive overview of the yearly business performance of Madhumati Jewelers. Through data analysis and dashboard visualization, the report successfully identifies category-wise trends, revenue patterns, and customer purchasing behavior.
-
-The findings of this project can support future business decisions related to inventory management, seasonal marketing campaigns, customer targeting strategies, and overall sales optimization. The project also demonstrates the practical application of business analytics using Excel and visual presentation design using Figma.
