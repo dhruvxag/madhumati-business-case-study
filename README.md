@@ -13,7 +13,7 @@ The primary objective of this project is to analyze and compare the sales perfor
 This analysis also helps in understanding:
 
 * Revenue contribution of each jewelry category
-*Monthly and quarterly sales growth trends
-*Seasonal demand during wedding and festive periods
-*Customer purchasing preferences
-*Overall business profitability and performance
+* Monthly and quarterly sales growth trends
+* Seasonal demand during wedding and festive periods
+* Customer purchasing preferences
+* Overall business profitability and performance
