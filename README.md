@@ -61,13 +61,16 @@ Monthly trend analysis revealed noticeable revenue spikes during festive periods
 
 Category-Wise Performance Analysis
 
-* Gold Jewelry
+Gold Jewelry
+
 Gold jewelry contributed the highest overall sales volume and maintained steady performance across most months. The category showed significant growth during festive and wedding seasons due to traditional purchasing behavior.
 
-* Diamond Jewelry
+Diamond Jewelry
+
 Diamond products generated strong premium revenue and higher average order values. Sales increased during celebration-focused periods, indicating customer preference for luxury purchases during special occasions.
 
-* Platinum Jewelry
+Platinum Jewelry
+
 Platinum jewelry catered to a smaller but premium customer segment. Although sales volume remained comparatively lower, the category demonstrated higher profitability per transaction.
 
 Business Insights
