@@ -7,7 +7,7 @@ The study focuses on sales growth, customer purchasing behavior, monthly revenue
 
 Business Objective
 
-The primary objective of this project is to analyze and compare the sales performance of Gold, Diamond, and Platinum jewelry categories throughout the year. The report is designed to identify which category generates the highest revenue, which products perform better during specific seasons or festivals, and how customer demand changes over time.
+The primary objective of this project is to analyze and compare the category-wise sales performance of Gold, Diamond, and Platinum jewelry categories throughout the year. The report is designed to identify which category generates the highest revenue, which products perform better during specific seasons or festivals, and how customer demand changes over time.
 This analysis also helps in understanding:
 
 * Revenue contribution of each jewelry category
