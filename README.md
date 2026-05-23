@@ -5,7 +5,7 @@ Introduction
 This report presents a detailed analysis of the annual sales performance and market trends of Madhumati Jewelers across its three primary product categories: Gold, Diamond, and Platinum jewelry. The purpose of this analysis is to evaluate category-wise business performance, identify seasonal purchasing patterns, and understand revenue contribution over a 12-month period.
 The study focuses on sales growth, customer purchasing behavior, monthly revenue fluctuations, and category performance trends. By analyzing these business metrics, the report aims to provide meaningful insights that can support strategic decision-making, inventory planning, and future marketing initiatives for the company.
 
-BUSINESS OBJECTIVE
+Business Objective
 
 The primary objective of this project is to analyze and compare the sales performance of Gold, Diamond, and Platinum jewelry categories throughout the year. The report is designed to identify which category generates the highest revenue, which products perform better during specific seasons or festivals, and how customer demand changes over time.
 This analysis also helps in understanding:
@@ -16,7 +16,7 @@ This analysis also helps in understanding:
 * Customer purchasing preferences
 * Overall business profitability and performance
 
-DATASET OVERVIEW
+Dataset Overview
 
 The dataset used in this project contains transactional sales records of Madhumati Jewelers for a one-year duration. The data is categorized into three product segments:
 
@@ -36,13 +36,13 @@ The dataset includes the following business metrics:
   
 The data was organized and analyzed using Microsoft Excel to generate insights and visual dashboards.
 
-TOOLS & TECHNOLOGIES USED
+Tools & Technologies Used
 
 * Microsoft Excel for Data Cleaning, Analysis, Pivot Tables, Dashboard Creation
 * Figma for UI Design, Dashboard Presentation, Visual Layout
 * Charts & Graphs for Trend Visualization and Comparative Analysis
 
-KEY PERFORMANCE INDICATORS
+Key Performance Indicators (KPIs)
 
 The following KPIs were used to evaluate business performance:
 
