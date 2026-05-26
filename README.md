@@ -1,5 +1,5 @@
 Sales Performance & Market Trend Analysis | Madhumati Jewelers
-Images/business insights.png
+
 Introduction
 
 This report presents a detailed analysis of the annual sales performance and market trends of Madhumati Jewelers across its three primary product categories: Gold, Diamond, and Platinum jewelry. The purpose of this analysis is to evaluate category-wise sales performance, identify seasonal purchasing patterns, and understand revenue contribution over a 12-month period.
