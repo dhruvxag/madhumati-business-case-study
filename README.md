@@ -183,7 +183,7 @@ In addition to reporting historical performance, this dashboard also provides fo
 ---
 ***Sources & References***
 
-* Dashboard inspiration and layout references from: Pinterest, Behance, Dribbble
+* Dashboard inspiration and layout references from: Pinterest, Behance, Dribbble.
 
 * Jewelry and luxury brand visual inspiration inspired by premium jewelry brands like Kantilal Chotalal Jewelry and modern business reporting dashboards.
 
