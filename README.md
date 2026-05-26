@@ -75,13 +75,13 @@ These KPIs provide a quick overview of how the business performed during the sel
 
 This page introduces the project and sets the visual tone for the entire dashboard. It presents the brand identity of Madhumati Jewelers in a luxury-style layout and clearly communicates that the project is focused on sales performance and market trend analysis. The cover page is designed to look premium, elegant, and brand-consistent. It gives the viewer a first impression of the report’s purpose and visual style.
 
-
 ![Front Page](Images/front%20page.png)
 
 ---
 `2. Dashboard Overview`
 
 This page gives a high-level summary of the full dashboard. It includes key KPIs, monthly trend analysis, category contribution, customer behavior, and top revenue months. It acts as the main reporting page where the most important business numbers are displayed together in one view. This page is useful for quickly understanding the overall performance of the business and identifying the strongest revenue drivers.
+
 ![Dashboard](Images/dashboard.png)
 
 ----
@@ -89,6 +89,7 @@ This page gives a high-level summary of the full dashboard. It includes key KPIs
 
 This page highlights the most important business metrics in a clean and structured layout. It includes total revenue, total units sold, highest revenue category, total customers, and average order value.
 The KPI page helps in understanding the overall scale of the business and gives a quick summary of performance before moving into deeper analysis.
+
 ![KPIs](Images/kpis.png)
 
 
@@ -96,37 +97,39 @@ The KPI page helps in understanding the overall scale of the business and gives 
 `4. Sales Trend and Category Analysis`
 
 This page focuses on monthly sales trends and category-wise revenue contribution. The line chart shows how revenue changed throughout the year for Gold, Diamond, and Platinum, while the donut chart shows the percentage contribution of each category to total revenue. This page also includes key business insights, customer purchase behavior, and top revenue months. It helps explain when sales were strongest and which categories were driving performance.
-![Category Analysis](Images/category%20wise%20analysis.png)
+
+ ![Pie Chart](Images/pie%20chart.png)
 
 ---
 `5. Category Wise Performance Analysis`
 
 This page presents a quarterly comparison of revenue across the three jewelry categories. It helps identify how each category performed in different quarters and highlights the seasonal impact on sales. The quarterly chart makes it easier to compare Gold, Diamond, and Platinum across the year and understand how performance changed over time.
-![Pie Chart](Images/pie%20chart.png)
 
-
----
-`6. Business Insights and Conclusion`
-
-This page summarizes the major findings from the analysis. It explains what the data means from a business perspective and provides a conclusion based on the overall performance of Madhumati Jewelers. This section is important because it turns raw data into business understanding and connects the dashboard results to decision-making.
-![Business Insights](Images/business%20insights.png)
+![Category Analysis](Images/category%20wise%20analysis.png)  
 
 ---
-`7. Customer Segmentation Analysis`
+`6. Customer Segmentation Analysis`
 
 This page focuses on understanding the different types of customers who buy from Madhumati Jewelers. The customer segmentation analysis shows that the business serves a mix of repeat customers, new customers, premium customers, and one-time buyers. Repeat customers form an important part of the business because they contribute to long-term growth and show strong brand loyalty. New customers help expand the customer base, especially during festive and wedding seasons. Premium customers are especially valuable because they generate a larger share of revenue and usually have a higher average order value.
 
 The segmentation analysis also shows that customer age and buying behavior influence purchase patterns. Middle-age customers contribute strongly to purchases, while seasonal and wedding shoppers play an important role in driving demand. This page helps explain who the customers are, how they buy, and which segments are most important for future growth.
+
 ![Customer Segmentation](Images/customer%20segmentation.png)
 
 ---
-`8. Revenue Forecast and Growth Opportunities` 
+`7. Revenue Forecast and Growth Opportunities` 
 
 This page looks beyond past performance and focuses on future growth. The revenue forecast chart shows the expected direction of sales based on the existing trend pattern. The forecast suggests continued growth if current business conditions remain stable and seasonal demand continues to support sales.The seasonal demand heatmap highlights that revenue is strongest during festive and wedding periods. These months create the highest demand across all categories, especially Gold and Diamond. The analysis also shows that demand is lower during off-season months, which makes planning and forecasting more important for the business.
 
-This page also identifies possible growth opportunities. These include improving platinum visibility, strengthening customer loyalty programs, increasing premium diamond sales, and using targeted campaigns during high-demand months. It also highlights the key business risks, such as heavy dependence on Gold and seasonal revenue concentration.
-The recommendations in this section are designed to help Madhumati Jewelers improve future growth, balance category performance, and increase profitability.
+This page also identifies possible growth opportunities. These include improving platinum visibility, strengthening customer loyalty programs, increasing premium diamond sales, and using targeted campaigns during high-demand months. It also highlights the key business risks, such as heavy dependence on Gold and seasonal revenue concentration.The recommendations in this section are designed to help Madhumati Jewelers improve future growth, balance category performance, and increase profitability.
+
 ![Revenue Forecasting](Images/revenue%20forecasting.png)
+
+`8. Business Insights and Conclusion`
+
+This page summarizes the major findings from the analysis. It explains what the data means from a business perspective and provides a conclusion based on the overall performance of Madhumati Jewelers. This section is important because it turns raw data into business understanding and connects the dashboard results to decision-making.
+
+![Business Insights](Images/business%20insights.png)
 
 ---
 ***Business Performance Summary***
