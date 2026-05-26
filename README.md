@@ -138,7 +138,7 @@ Monthly trends revealed that the highest revenue months occurred during the fest
 
 The category-wise analysis compares the performance of Gold, Diamond, and Platinum jewelry across the year. 
 
-* Gold emerged as the top-performing category and generated the highest overall revenue share. It remained strong across most months because of its wide customer appeal and strong seasonal demand.
+* Gold jewelry emerged as the top-performing category and generated the highest overall revenue share. It remained strong across most months because of its wide customer appeal and strong seasonal demand.
 
 * Diamond jewelry contributed a significant share of premium revenue and performed especially well during special occasions. It showed stronger performance during celebration-driven purchases and higher-end gifting periods.
 
@@ -179,7 +179,7 @@ In addition to reporting historical performance, this dashboard also provides fo
 
 * Dashboard developed using: Microsoft Excel
 
-* Data used in this project is sample/simulated business data created for educational and portfolio purposes.
+* Data used in this project is sample business data created for educational and portfolio purposes.
 
 ---
 ***Final Note***
