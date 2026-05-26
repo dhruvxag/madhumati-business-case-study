@@ -5,9 +5,6 @@ Introduction
 This report presents a detailed analysis of the annual sales performance and market trends of Madhumati Jewelers across its three primary product categories: Gold, Diamond, and Platinum jewelry. The purpose of this analysis is to evaluate category-wise sales performance, identify seasonal purchasing patterns, and understand revenue contribution over a 12-month period.
 The study focuses on sales growth, customer purchasing behavior, monthly revenue fluctuations, and category performance trends. By analyzing these business metrics, the report aims to provide meaningful insights that can support strategic decision-making, inventory planning, and future marketing initiatives for the company.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/006d6e1a-6995-44f4-8a6f-48ad9a4c2a39" />
-
-
 Business Objective
 
 The primary objective of this project is to analyze and compare the category-wise sales performance of Gold, Diamond, and Platinum jewelry categories throughout the year. The report is designed to identify which category generates the highest revenue, which products perform better during specific seasons or festivals, and how customer demand changes over time.
